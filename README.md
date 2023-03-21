@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working and learning Flutter/Dart.<br>I have been doing few long term projects with my friend.<br>
+I am currently working and learning Flutter/Dart.<br>I have been doing few long term projects<br>
 
 
 ## 🌐 Socials:
